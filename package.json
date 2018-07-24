@@ -24,7 +24,7 @@
   "bugs": "https://github.com/pa11y/webservice-client-node/issues",
   "license": "GPL-3.0",
   "dependencies": {
-    "request": "~2.74"
+    "request": "^2.86.0"
   },
   "devDependencies": {
     "grunt": "~0.4",
